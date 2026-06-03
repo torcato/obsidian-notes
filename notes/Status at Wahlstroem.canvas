@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6dce4ced2788a494","x":-500,"y":-260,"width":400,"height":482,"type":"file","file":"2026-06-03.md"},
+		{"id":"80f4d66ee5fec003","x":-480,"y":-360,"width":250,"height":50,"type":"text","text":"First mission get specification"}
+	],
+	"edges":[
+		{"id":"39d966a238c1df8c","fromNode":"80f4d66ee5fec003","fromSide":"right","toNode":"6dce4ced2788a494","toSide":"top"}
+	]
+}
