@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"id":"6dce4ced2788a494","x":-500,"y":-260,"width":400,"height":482,"type":"file","file":"2026-06-03.md"},
-		{"id":"80f4d66ee5fec003","x":-480,"y":-360,"width":250,"height":50,"type":"text","text":"First mission get specification"}
+		{"id":"6dce4ced2788a494","type":"file","file":"2026-06-03.md","x":-500,"y":-260,"width":400,"height":482},
+		{"id":"80f4d66ee5fec003","type":"text","text":"First mission get specification","x":-480,"y":-360,"width":250,"height":50},
+		{"id":"f118a66ed716d640","type":"text","text":"RAG Application","x":-1300,"y":540,"width":250,"height":60},
+		{"id":"0118f523ea685d33","x":-980,"y":570,"width":400,"height":400,"type":"file","file":"Raglab server.md"}
 	],
 	"edges":[
-		{"id":"39d966a238c1df8c","fromNode":"80f4d66ee5fec003","fromSide":"right","toNode":"6dce4ced2788a494","toSide":"top"}
+		{"id":"39d966a238c1df8c","fromNode":"80f4d66ee5fec003","fromSide":"right","toNode":"6dce4ced2788a494","toSide":"top"},
+		{"id":"5a56ada14e9d5207","fromNode":"f118a66ed716d640","fromSide":"right","toNode":"0118f523ea685d33","toSide":"left"}
 	]
 }
